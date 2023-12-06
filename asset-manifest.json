@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/truanayangi/static/css/main.f855e6bc.css",
+    "main.js": "/truanayangi/static/js/main.cb218ad7.js",
+    "static/js/787.1c0c3734.chunk.js": "/truanayangi/static/js/787.1c0c3734.chunk.js",
+    "static/media/logo.svg": "/truanayangi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/truanayangi/index.html",
+    "main.f855e6bc.css.map": "/truanayangi/static/css/main.f855e6bc.css.map",
+    "main.cb218ad7.js.map": "/truanayangi/static/js/main.cb218ad7.js.map",
+    "787.1c0c3734.chunk.js.map": "/truanayangi/static/js/787.1c0c3734.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cb218ad7.js"
+  ]
+}
